@@ -75,7 +75,7 @@ Diseñar y desarrollar un sistema ERP modular para clínicas veterinarias que pe
 - Integrar las operaciones financieras y administrativas.
 - Proporcionar reportes e indicadores para apoyar la toma de decisiones.
 
-## 📈 Desarrollo progresivo
+##  Desarrollo progresivo
 
 El proyecto contempla un desarrollo por etapas, priorizando inicialmente las funcionalidades esenciales y permitiendo incorporar nuevas características conforme evolucionen las necesidades del sistema.
 
@@ -98,7 +98,7 @@ La modularidad permitirá que el sistema crezca progresivamente, adaptándose a 
 ---
 
 <p align="center">
-  🐾 <strong>VetCore ERP</strong>
+   <strong>VetCore ERP</strong>
   <br>
   <em>Technology supporting better veterinary care.</em>
   <br><br>
