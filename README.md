@@ -95,12 +95,4 @@ Su propósito es conectar la información médica con los procesos administrativ
 
 La modularidad permitirá que el sistema crezca progresivamente, adaptándose a diferentes necesidades sin perder la integración entre sus componentes.
 
----
 
-<p align="center">
-   <strong>VetCore ERP</strong>
-  <br>
-  <em>Technology supporting better veterinary care.</em>
-  <br><br>
-  Proyecto académico · Ingeniería en Sistemas
-</p>
